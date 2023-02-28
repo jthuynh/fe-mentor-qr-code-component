@@ -1,25 +1,38 @@
-# Frontend Mentor: QR Code Component
+# Frontend Mentor - QR code component solution
 
-<p align="center">
-<img src="https://res.cloudinary.com/dz209s6jk/image/upload/v1642681473/Challenges/lzfaukzhigbavv5sc26b.jpg" alt="QR Code Component Preview" />
-</p>
-<br />
-<p align="center">
-  <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H">View Challenge</a> 
-  <!--| <a href="https://fe-mentor-social-proof-mu.vercel.app/">View Live Site</a> -->
-  <!-- add live site url -->
-</p>
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 
-<br />
+## Table of contents
+
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
 
 ## Overview
 
-This challenge is to build a QR code component that looks as close to the design as possible.
-<!-- TODO: add some difficulties and what I did to solve those difficulties -->
+### Screenshot
 
-## Built with
-- HTML
-- CSS
+![](https://res.cloudinary.com/dz209s6jk/image/upload/v1642681473/Challenges/lzfaukzhigbavv5sc26b.jpg)
+
+### Links
+
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-qr-code-component-using-flexbox-and-css-grid-eaV9jtNShA)
+- Live Site URL: [Live Site](https://fe-mentor-qr-code-component.vercel.app/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
 - Flexbox
-- Hosted with ...
-<!-- add hosting platform (vercel, heroku?)-->
+- CSS Grid
+- Mobile-first workflow
+
+### What I learned
+
+Initially, I intended to use flexbox on the contents of the card in order to align everything vertically, but I ran into a spacing issue with the QR code. Instead, I went with the CSS grid to automatically space out the content.
+
